@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">NewGBApplicationOne</string>
+    <string name="last_operation">last_operation</string>
+    <string name="Request">Request</string>
+    <string name="operation_one">/</string>
+    <string name="operation_two">*</string>
+    <string name="operation_three">-</string>
+    <string name="operation_four">+</string>
+    <string name="number_seven">7</string>
+    <string name="number_eight">8</string>
+    <string name="number_nine">9</string>
+    <string name="number_four">4</string>
+    <string name="number_five">5</string>
+    <string name="number_six">6</string>
+    <string name="number_one">1</string>
+    <string name="number_two">2</string>
+    <string name="number_three">3</string>
+    <string name="number_null">0</string>
+    <string name="operation_five">=</string>
+    <string name="EditText"></string>
 </resources>

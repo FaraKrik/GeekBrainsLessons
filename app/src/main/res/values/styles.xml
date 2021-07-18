@@ -6,4 +6,18 @@
         <item name="android:layout_height">55dp</item>
         <item name="android:layout_weight">1</item>
     </style>
+
+    <style name="MyEditText">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:inputType">phone</item>
+        <item name="android:textSize">12pt</item>
+        <item name="android:textColor">#1D36BD</item>
+    </style>
+    <style name="Numbers">
+        name="RoundedCornerButton" parent="@style/Widget.AppCompat.Button.Colored">
+        <item name="background">@drawable/button_style</item>
+        <item name="colorButtonNormal">#1a237e</item>
+        <item name="colorControlHighlight">#673ab7</item>
+    </style>
 </resources>
